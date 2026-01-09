@@ -9,7 +9,7 @@
 title                    : "Qijun Zhou (周启俊)"
 description              : "Focusing on video and speech large generation model."
 repository               : "TheresaQAQ/TheresaQAQ.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      : 
@@ -22,9 +22,9 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Qijun Zhou (周启俊)"
-  avatar           : "images/ry_profile.jpeg"
+  avatar           : "images/photo.jpeg"
   bio              : ""
-  location         : "Guangdong"
+  location         : "Guangdong,China"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "TheresaQAQ"
   google_plus      :
   keybase          :
   instagram        :
